@@ -1,2 +1,2 @@
 # Advent of Code
-Attempts at the Advent of Code challenge (https://adventofcode.com/). In 2022 and 2023 I attempted it with C++.
+Attempts at the Advent of Code challenge (https://adventofcode.com/). In 2022 and 2023 I attempted it with C++. In 2024 I used Python.
